@@ -22,6 +22,13 @@ Also if you are not a consumer but a vendor you want to receive payments on the 
 Therefore you need others to open channels with you or you need to open channels and use submarine swaps and rebalancing techniques to provide yourself with the ability to receive payments.
 Both techniques will be discussed later in this chapter.
 
+(subtopic) How does money flow in the real world?
+When planning your approach to channel management, consider what happens when people spend their money irrespective of the currency they use. According to data from the Bureau of Labor Statistics, The average person in the US spends the highest allocation of their money on housing (22.1% of spending), while gas and insurance (9.0%), household (7.7%), and vehicle payments (7.5%) make up the next largest categories.* As you can see from the following graphic, spending habits extend to a long list of potential recipients. {https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/average.jpg} 
+
+While not all of these pathways will be "Bitcoin-friendly" at first, part of being a smart node operator is anticipating where new channels will be needed as the Lightning Network gains widespread adoption.  Individuals who evangelize within their local communities can help build a robust network, by connecting the neighborhood tire repair shop to the corner coffee bar the mechanics stop at on their way to work, or to the Michelin distributor they buy tires from. Once you can visualize the web of payments currently happening in your town, you can begin to connect the dots by providing a valuable service and profiting by providing the liquidity these merchants and residents need to go about their normal lives.
+
+* (sources: https://www.visualcapitalist.com/how-americans-make-spend-money/ (June 2020); 
+
 ==== Autopilots
 
 ==== Rebalancing
